@@ -1,4 +1,4 @@
-🤖 Echelon GPT (Clever ChatGPT)
+**🤖 Echelon GPT (Clever ChatGPT)**
 
 Echelon GPT is a lightweight Streamlit-based AI chat application powered by LangChain and OpenAI.
 It allows users to interact with a GPT model through a simple web interface by securely providing their OpenAI API key.
@@ -17,23 +17,23 @@ It allows users to interact with a GPT model through a simple web interface by s
 
 🛠️ Tech Stack
 
-Python
+**Python
 
-Streamlit
+Streamlit**
 
 LangChain (Community)
 
-OpenAI API
+**OpenAI API**
 
-📁 Project Structure
-echelon_GPT/
+**📁 Project Structure
+echelon_GPT/**
 │
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Python dependencies
 ├── ai.png               # UI image asset
 └── README.md            # Project documentation
 
-🚀 Installation & Setup
+**🚀 Installation & Setup**
 1️⃣ Clone the repository
 git clone https://github.com/fayomiadeseye64-spec/echelon_GPT.git
 cd echelon_GPT
